@@ -18,11 +18,11 @@ Além de desenvolver aplicações, também gosto muito de jogos eletrônicos, no
 [Jogue aqui alguns dos protótipos de jogos desenvolvidos por mim](https://guslarsen.itch.io/) 🕹
 
 Caso você tenha interesse em aprender a programar jogos, eu posso te ensinar através do meu canal do youtute que você pode assistir aqui: 
-[Meus tutoriais de progrmaação de jogos](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA) 🎮
+[Meus tutoriais de programação de jogos](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA) 🎮
 
 # Contatos
-📫 Email: guslarsen@gmail.com
-💬 Discord: Gus#9804
+- 📫 Email: guslarsen@gmail.com
+- 💬 Discord: Gus#9804
 
 <!--
 **gustavolarsen/gustavolarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
