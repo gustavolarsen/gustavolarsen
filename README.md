@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=gustavolarsen&color=blue)
 # Gustavo Larsen
 ### Oi pessoal 👋
 
