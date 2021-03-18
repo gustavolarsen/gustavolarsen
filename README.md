@@ -17,9 +17,6 @@ Sou gaúcho. Vivo em São Leopopldo, Rio Grande do Sul, Brasil
 Além de desenvolver aplicações, também gosto muito de jogos eletrônicos, no qual ja desenvolvi alguns utilizando os motores Unity e Godot.
 [Jogue aqui alguns dos protótipos de jogos desenvolvidos por mim](https://guslarsen.itch.io/) 🕹
 
-Caso você tenha interesse em aprender a programar jogos, eu posso te ensinar através do meu canal do youtute que você pode assistir aqui: 
-[Meus tutoriais de programação de jogos](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA) 🎮
-
 # Contatos
 - 📫 Email: guslarsen@gmail.com
 - 💬 Discord: Gus#9804
