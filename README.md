@@ -8,7 +8,7 @@ Aqui você vai encontrar alguns dos meus projetos pessoais e conhecer um pouco m
 
 ## Quem sou eu? 😁
 
-Sou desenvolvedor de software desde meados de 2004. Eu realmente amo desenvolver software, principalemente para web nas tecnologias NodeJS e React, e criar jogos com Unity e Godot.
+Sou desenvolvedor de software desde meados de 2004. Eu realmente amo desenvolver software, principalemente para web nas tecnologias NodeJS e React. Também gosto de criar jogos com Unity e Godot.
 Estou sempre estudando programação, participando de bootcamps e assistindo cursos que me agreguem mais conhecimento sobre o assunto.
 Atualmente sou desenvolvedor React/Node na CWI. Sou gaúcho. Vivo em São Leopopldo, Rio Grande do Sul, Brasil
 
