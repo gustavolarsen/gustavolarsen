@@ -16,7 +16,8 @@ Atualmente sou desenvolvedor React/Node na CWI. Sou gaúcho. Vivo em São Leopop
 
 Além de desenvolver aplicações, também gosto muito de jogos eletrônicos, no qual ja desenvolvi alguns utilizando os motores Unity e Godot.
 [Jogue aqui alguns dos protótipos de jogos desenvolvidos por mim](https://guslarsen.itch.io/) 🕹
-També faço lives esporadicamente na [twitch.tv/gustavoslarsen](https://www.twitch.tv/gustavoslarsen/) 
+
+Também faço lives esporadicamente na [twitch.tv/gustavoslarsen](https://www.twitch.tv/gustavoslarsen/) 
 
 # Contatos
 - 📫 Email: guslarsen@gmail.com
