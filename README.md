@@ -23,6 +23,7 @@ Obs: Já faz um bom tempo que não crio nada a respeito, mas caso esteja curioso
 - 👾 Discord: @gustavolarsen
 - 🐦 Twitter: @gustavoslarsen
 - 📷 Instagram: @gustavoslarsen
+- 📄 Linkedin: [@gustavolarsen](https://www.linkedin.com/in/gustavolarsen/)
 
 <!--
 **gustavolarsen/gustavolarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
