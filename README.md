@@ -2,7 +2,7 @@
 # Gustavo Larsen
 ### Oi pessoal 👋
 
-## Bem-vindos a bordo do meu repositório :rocket:
+## Bem-vindos ao meu perfil do GitHub 👾
 
 Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais que desenvolvo para estudar e praticar programação. Espero que goste!
 
