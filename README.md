@@ -8,7 +8,7 @@ Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais qu
 
 ## Quem sou eu? 😁
 
-Sou desenvolvedor de software desde meados de 2004. Eu realmente amo desenvolver software, principalemente para web e mobile. Minhas tecnologias preferidas são Javascript, Typscript, React, Next, Angular e Node. 
+Sou desenvolvedor de software desde meados de 2004. Eu realmente amo desenvolver software, principalmente para web e mobile. Minhas tecnologias preferidas são Javascript, Typscript, React, Next, Angular e Node. 
 Estou sempre estudando programação, participando de bootcamps e assistindo cursos que me agreguem mais conhecimento sobre o assunto.
 Atualmente sou desenvolvedor Frontend na CWI Software. Sou do Rio Grande do Sul, Brasil
 
