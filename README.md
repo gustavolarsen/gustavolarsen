@@ -22,4 +22,4 @@ Obs: Já faz um bom tempo que não crio nada a respeito, mas caso esteja curioso
 # Contatos
 - 📫 Email: guslarsen@gmail.com
 - 📷 Instagram: [@gustavoslarsen](https://www.instagram.com/gustavoslarsen/)
-- 📄 Linkedin: [@gustavolarsen](https://www.linkedin.com/in/gustavolarsen/)
+- 📄 Linkedin: [@gustavoslarsen](https://www.linkedin.com/in/gustavoslarsen/)
