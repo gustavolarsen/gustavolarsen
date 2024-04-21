@@ -21,6 +21,5 @@ Obs: Já faz um bom tempo que não crio nada a respeito, mas caso esteja curioso
 
 # Contatos
 - 📫 Email: guslarsen@gmail.com
-- 👾 Discord: @gustavolarsen
 - 📷 Instagram: [@gustavoslarsen](https://www.instagram.com/gustavoslarsen/)
 - 📄 Linkedin: [@gustavolarsen](https://www.linkedin.com/in/gustavolarsen/)
