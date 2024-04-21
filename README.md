@@ -11,7 +11,7 @@ Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais qu
 Me chamo Gustavo e trabalho com desenvolvimento de software desde 2004. Atualmente sou desenvolvedor front-end na CWI Software onde faço parte do time de Canais, alocado no cliente Realize, empresa do grupo Lojas Renner.
 Integro a equipe da CWI desde abril de 2019, ao longo desse período participei de uma variedade de projetos, fazendo uso de tecnologias como Angular, Typescript, JavaScript, Next, React. Além disso, contribuí ocasionalmente com o desenvolvimento back-end utilizando Node. Faço parte do Capítulo de front-end dentro do Cluster da CWI escrevendo drops de dicas sobre desenvolvimento.
 Durante a minha carreira, também já atuei como analista de sistemas e scrum master nos times em que fiz parte. 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Unisinos (Universidade do Vale dos Sinos - RS).
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Unisinos (Universidade do Vale do Rio dos Sinos - RS).
 
 ## Fatos curiosos e divertidos 👀
 
