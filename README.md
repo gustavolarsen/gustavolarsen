@@ -6,18 +6,13 @@
 
 Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais que desenvolvo para estudar e praticar programação. Espero que goste!
 
-## Quem sou eu? 😁
+## Sobre 🙃
 
-Me chamo Gustavo e trabalho com desenvolvimento de software desde 2004. SIM, são 20 anos de experiência! 👀
-Atualmente sou desenvolvedor front-end na CWI Software onde faço parte do time de Canais, alocado no cliente Realize, empresa do grupo Lojas Renner.
-Já participei de uma variedade de projetos, fazendo uso de tecnologias como Angular, Typescript, JavaScript, Next, React. Além do front-end, também desenvolvi para back-end utilizando NodeJS. 
-Também faço parte do Capítulo de front-end dentro da CWI, escrevendo dicas sobre desenvolvimento, com o objetivo de compartilhar o conhecimento.
-Durante a minha carreira, além de desenvolvedor, atuei como analista de sistemas e scrum master em alguns times nos quais fiz parte. 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Unisinos. 
+Como desenvolvedor frontend na CWI, alocado no projeto de um dos maiores grupos varejistas da américa latina, meu foco é criar softwares que auxiliem os colaboradores das Lojas Renner a oferecerem a melhor experiência de loja aos seus clientes.
+Também faço parte de um grupo de profissionais da empresa, o Frontdrops, onde publicamos dicas sobre desenvolvimento, com o objetivo de compartilhar o conhecimento com os colegas.
+Minha jornada como desenvolvedor começou em 2004, desde lá já participei de uma variedade de projetos, fazendo uso de tecnologias como Angular, Typescript, JavaScript, Next, React. Onde também já desenvolvi para backend utilizando NodeJS. Toda essa experiência me dá uma base sólida para enfrentar qualquer projeto.
 
-Tecnologias: Angular, TypeScript, JavaScript, React, React-Native, NodeJS
-
-## Fatos curiosos e divertidos 👀
+## Fatos curiosos 👀
 
 Além de desenvolver aplicações web, também gosto muito de jogos eletrônicos, no qual ja desenvolvi alguns protótipos utilizando os motores Unity e Godot.
 
