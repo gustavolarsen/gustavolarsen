@@ -8,7 +8,7 @@ Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais qu
 
 ## Sobre 🧑‍💻
 
-Desenvolvedor de software desde 2004, criando sistemas para os mais diversos tipos — incluindo sistemas para bancos e varejo, plataformas para instituições de ensino, soluções logísticas para transportadoras e sistemas ERP para indústrias. Por ter atuado também com Analista de Sistemas, aplico esse conhecimento na programação para desenvolver soluções que conectam as necessidades dos usuários, combinando visão técnica e entendimento de negócio.
+Desenvolvedor de software desde 2004, criando sistemas dos mais diversos tipos — incluindo sistemas para bancos e varejo, plataformas para instituições de ensino, soluções logísticas para transportadoras e sistemas ERP para indústrias. Por ter atuado também com Analista de Sistemas, aplico esse conhecimento na programação para desenvolver soluções que conectam as necessidades dos usuários, combinando visão técnica e entendimento de negócio.
 
 #### Especialidades Técnicas:
 - Front-end: Angular, React, Next.js, TypeScript
