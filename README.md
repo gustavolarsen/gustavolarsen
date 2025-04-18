@@ -8,10 +8,16 @@ Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais qu
 
 ## Sobre 🙃
 
-Como desenvolvedor frontend na CWI, alocado em projetos no maior varejista de moda do Brasil, meu foco é criar softwares que auxiliem os colaboradores das Lojas Renner a oferecerem a melhor experiência de loja aos seus clientes.
-Também faço parte de um grupo de profissionais da empresa chamado Frontdrops, onde publicamos dicas sobre desenvolvimento com o objetivo de compartilhar o conhecimento com os colegas.
-Minha jornada como desenvolvedor começou em 2004, desde lá já participei de uma variedade de projetos, fazendo uso de tecnologias como Angular, Typescript, JavaScript, Next, React. Onde também já desenvolvi para backend utilizando NodeJS. Toda essa experiência me dá uma base sólida para enfrentar qualquer projeto.
+Desenvolvedor de software desde 2004, criando sistemas para os mais diversos tipos de negócios — incluindo sistemas para bancos e varejo, plataformas para instituições de ensino, soluções logísticas para transportadoras e sistemas ERP para indústrias. Por ter atuado também com Analista de Sistemas, uso esse conhecimento como programador para entregar soluções que alinhem as necessidades do usuário com os objetivos do negócio, combinando visão técnica e de negócio.
 
+#### Especialidades Técnicas:
+- Front-end: Angular, React, Next.js, TypeScript
+- Back-end: Node.js
+- Banco de Dados: Oracle, MS SQL Server, PostgreSQL
+- Arquitetura: Micro Frontends, MVC
+- Testes: Jest, Cypress
+- UI/UX: Design Systems, Material UI
+- 
 ## Fatos curiosos 👀
 
 Além de desenvolver aplicações web, também gosto muito de jogos eletrônicos, no qual ja desenvolvi alguns protótipos utilizando os motores Unity e Godot.
