@@ -6,9 +6,9 @@
 
 Aqui neste repositório você vai encontrar alguns dos meus projetos pessoais que desenvolvo para estudar e praticar programação. Espero que goste!
 
-## Sobre 🙃
+## Sobre 🧑‍💻
 
-Desenvolvedor de software desde 2004, criando sistemas para os mais diversos tipos de negócios — incluindo sistemas para bancos e varejo, plataformas para instituições de ensino, soluções logísticas para transportadoras e sistemas ERP para indústrias. Por ter atuado também com Analista de Sistemas, uso esse conhecimento como programador para entregar soluções que alinhem as necessidades do usuário com os objetivos do negócio, combinando visão técnica e de negócio.
+Desenvolvedor de software desde 2004, criando sistemas para os mais diversos tipos — incluindo sistemas para bancos e varejo, plataformas para instituições de ensino, soluções logísticas para transportadoras e sistemas ERP para indústrias. Por ter atuado também com Analista de Sistemas, aplico esse conhecimento na programação para desenvolver soluções que conectam as necessidades dos usuários, combinando visão técnica e entendimento de negócio.
 
 #### Especialidades Técnicas:
 - Front-end: Angular, React, Next.js, TypeScript
@@ -17,7 +17,7 @@ Desenvolvedor de software desde 2004, criando sistemas para os mais diversos tip
 - Arquitetura: Micro Frontends, MVC
 - Testes: Jest, Cypress
 - UI/UX: Design Systems, Material UI
-- 
+  
 ## Fatos curiosos 👀
 
 Além de desenvolver aplicações web, também gosto muito de jogos eletrônicos, no qual ja desenvolvi alguns protótipos utilizando os motores Unity e Godot.
