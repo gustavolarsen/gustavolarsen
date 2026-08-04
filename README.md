@@ -12,7 +12,7 @@ Desenvolvedor de software desde 2004, criando sistemas dos mais diversos tipos â
 
 #### Especialidades TÃ©cnicas:
 - Front-end: Angular, React, Next.js, TypeScript
-- Back-end: Node.js
+- Back-end: Node, Java (com Spring Boot)
 - Banco de Dados: Oracle, MS SQL Server, PostgreSQL
 - Arquitetura: Micro Frontends, MVC
 - Testes: Jest, Cypress
